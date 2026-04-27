@@ -1,4 +1,4 @@
-playwright>=1.30.0
+playwright>=1.58.0
 pandas
 matplotlib
 seaborn
