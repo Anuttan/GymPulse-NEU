@@ -21967,3 +21967,9 @@ timestamp_utc,location,last_count,status,is_closed,updated
 2026-08-14T11:40:22.071932,Marino Center - Gymnasium,0,(Open),False,08/14/2026 06:27 AM
 2026-08-14T11:40:22.071932,Marino Center - 3rd Floor Weight Room,9,(Open),False,08/14/2026 06:27 AM
 2026-08-14T11:40:22.071932,Marino Center - 3rd Floor Select & Cardio,1,(Open),False,08/14/2026 06:27 AM
+2026-08-14T12:53:11.595817,SquashBusters - 4th Floor,8,(Open),False,08/14/2026 08:31 AM
+2026-08-14T12:53:11.595817,Marino Center - Studio A,0,(Closed),True,08/14/2026 08:11 AM
+2026-08-14T12:53:11.595817,Marino Center - Studio B,1,(Open),False,08/14/2026 08:20 AM
+2026-08-14T12:53:11.595817,Marino Center - Gymnasium,1,(Open),False,08/14/2026 08:30 AM
+2026-08-14T12:53:11.595817,Marino Center - 3rd Floor Weight Room,16,(Open),False,08/14/2026 08:30 AM
+2026-08-14T12:53:11.595817,Marino Center - 3rd Floor Select & Cardio,10,(Open),False,08/14/2026 08:30 AM
